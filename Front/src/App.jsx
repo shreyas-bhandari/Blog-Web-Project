@@ -23,8 +23,8 @@ export default function App() {
           </p></div>
 
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6">
-            Discover the Future of <br />
-            <span className="text-gradient">Web Development</span>
+            Elevate Your Voice with <br />
+            <span className="text-gradient">Next-Gen Blogging</span>
           </h1>
           
           <p className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10 leading-relaxed">
