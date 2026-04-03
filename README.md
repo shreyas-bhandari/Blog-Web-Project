@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://img.icons8.com/?size=100&id=114324&format=png&color=000000" width="100"/>
+  <img alt="Modern Web Blog Platform Hero Banner" src="./assets/hero_banner.png" width="100%" style="border-radius: 12px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
   <h1>✨ Modern Web Blog Platform ✨</h1>
   <p>A high-performance, full-stack blog application built with React, Node.js, and a scalable Microservices Architecture.</p>
 
